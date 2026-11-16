@@ -2,23 +2,27 @@
 
 Application web de supervision et de commande à distance d'une station automatisée pilotée par un automate Siemens S7-300.
 
-# Fonctionnalités
+## Fonctionnalités
 - Visualisation en temps réel des entrées (E124.x) et sorties (A124.x)
 - Commande à distance des bits de contrôle (M0.x)
 - Consignes analogiques des bacs P1, P2, P3 (0–100 %)
 - Accès distant via Ngrok
 
-# Architecture
+## Architecture
 Interface Web ⇄ API Flask ⇄ snap7 ⇄ Automate S7-300 (S7 sur TCP/IP)
 
-# Technologies
+## Technologies
 Siemens S7-300 · Step 7 · Python · Flask · python-snap7 · HTML/CSS/JS · Ngrok
 
-# Lancement
+## Lancement
 ```bash
 pip install -r requirements.txt
 python app.py
 ```
 
-# Documentation
+## Documentation
 Rapport complet : [docs/rapport.pdf](docs/rapport.pdf)
+
+## Auteurs
+Amina GARNAOUT, Ihssane EL KASIMI, Salwa DACHRAOUI
+Encadré par M. Benyouness OUKARFI, FST Mohammedia, 2025/2026
