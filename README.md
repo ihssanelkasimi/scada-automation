@@ -17,7 +17,7 @@ Siemens S7-300 · Step 7 · Python · Flask · python-snap7 · HTML/CSS/JS · Ng
 ## Lancement
 ```bash
 pip install -r requirements.txt
-python app.py
+python supervision.py
 ```
 
 ## Documentation
