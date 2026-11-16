@@ -22,7 +22,3 @@ python supervision.py
 
 ## Documentation
 Rapport complet : [docs/rapport.pdf](docs/rapport.pdf)
-
-## Auteurs
-Amina GARNAOUT, Ihssane EL KASIMI, Salwa DACHRAOUI
-Encadré par M. Benyouness OUKARFI, FST Mohammedia, 2025/2026
